@@ -1,7 +1,8 @@
 package com.akbarrahmatm.a2112500851_akbarrahmatm_apicrud;
 
 public class Configuration {
-    public static final String BASE_URL = "https://p11.api.akbarrahmatm.my.id/";
+    // Base URL = Domain API    
+    public static final String BASE_URL = "";
     public static final String URL_ADD = BASE_URL + "add.php";
     public static final String URL_GET_MHS = BASE_URL + "detail.php?id=";
     public static final String URL_GET_ALL = BASE_URL + "read.php";
